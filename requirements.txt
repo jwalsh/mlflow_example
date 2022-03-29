@@ -79,7 +79,7 @@ numpy==1.16.2
 packaging==19.0
 pandas==0.24.2
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.3.4
 pathlib2==2.3.3
 pexpect==4.6.0
